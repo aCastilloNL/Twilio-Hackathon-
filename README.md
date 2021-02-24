@@ -1,6 +1,6 @@
 # La Nurserie
 
-## “A bit of help and a lot of love”
+## “A little bit of help and a whole lot of love”
 
 # Twilio / WCS Hackaton Project
 
@@ -25,9 +25,9 @@ Front-End repository of our group's submission for the Remote EU 2020 Wild Code 
 
 ### Back-End Members:
 
+- Alfred Castillo https://github.com/aCastilloNL
 - Victoria Kulinkovich https://github.com/KulinkovichVA
 - Dima Piskun https://github.com/DzmitryPS
-- Alfred Castillo https://github.com/aCastilloNL
 
 (Separate repository: https://github.com/aCastilloNL/TwilioHackathonBE)
 
